@@ -9,5 +9,3 @@
 ![](https://github.com/burakbaga/java-App-World/blob/master/imgs/xox.png)
 ![](https://github.com/burakbaga/java-App-World/blob/master/imgs/notepad.png)
 
-
- Nortwind Database = https://www.daltinkurt.com/NorthWind-Veritabani
